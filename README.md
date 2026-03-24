@@ -8,11 +8,11 @@ This project implements an automated heart rate (HR) extraction algorithm from E
 
 ## Team
 
-| Name | Affiliation |
-|------|-------------|
-| Aarni Kivelä | University of Turku |
-| Jaakko Nurminen | University of Turku |
-| Oliver Nielikäinen | University of Turku |
+| Name | Email | Affiliation |
+|------|-------|------|
+| Aarni Kivelä | aarni.i.kivela@utu.fi | University of Turku |
+| Jaakko Nurminen | jaakko.j.nurminen@utu.fi | University of Turku |
+| Oliver Nielikäinen | oliver.e.nielikainen@utu.fi | University of Turku |
 
 ## Objectives
 
